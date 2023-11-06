@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1S8dFRWC7f3QH6ZVnGp6miYLwPz8s4coh/view](https://drive.google.com/file/d/1S8dFRWC7f3QH6ZVnGp6miYLwPz8s4coh/view)
 
-<h3 align="left">Connect with me:01765459224</h3>
+<h3 align="left">Connect with me: 01765459224 </h3>
 <p align="left">
 </p>
 
