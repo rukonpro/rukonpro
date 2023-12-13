@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Musafir](https://www.musafira2z.com/)
 
-- 🌱 I’m currently learning **Python, Django, PHP , Laravel**
+- 🌱 I’m currently learning **Kotlin,Jetpack compose,Python, Django, PHP , Laravel**
 
 - 👯 I’m looking to collaborate on [Eskul](https://eskul-avengers.web.app/)
 - 👯 I’m looking to collaborate on [Online CLock Shop](https://premier-pottery-retailer.web.app/)
