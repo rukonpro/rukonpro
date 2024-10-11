@@ -14,6 +14,7 @@
 - 📝 I regularly write articles on [https://medium.com/@rukonpro](https://medium.com/@rukonpro)
 
 -[Linkdin](https://www.linkedin.com/in/rukonpro)
+
 -[Facebook](https://facebook.com/rukonpro)
 - 💬 Ask me about **React,Next js, vuw.**
 
