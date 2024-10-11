@@ -1,5 +1,6 @@
-<img src="https://i.ibb.co/TgctHGK/Jacksonville-Banner-mern-stack-training.jpg" alt="" />
 # MERN Stack Developer
+
+![Developer](https://rukonpro.vercel.app/static/media/profile.3eb115d1.jpg)  <!-- Replace with your image URL if needed -->
 
 ## About Me
 
@@ -70,17 +71,17 @@ I am a passionate MERN Stack Developer with extensive experience in building dyn
 ### Eskul
 - **Description:** A full-stack school management application that includes features such as dynamic dashboards, online tutoring, transportation options, and book purchases.
 - **Technologies:** React, Node.js, Express, MongoDB, Firebase
-- **Link:** [Eskul Project](https://yourprojectlink.com)
+- **Link:** [Eskul Project](https://eskul-avengers.web.app/)
 
 ## Education
 
-- **Bachelor of Social Science (B.S.S.) in [Your Major]**
+- **Bachelor of Social Science (B.S.S.) in Social Science**
   - Sunamganj Government College
-  - [Expected Graduation Year]
+  - Session: 2020-2021
 
 ## Contact
 
-- **Email:** your.email@example.com
+- **Email:** your.email@example.com  <!-- Replace with your actual email -->
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rukonpro)
 - **Facebook:** [Facebook Profile](https://www.facebook.com/rukonpro)
 - **Instagram:** [Instagram Profile](https://www.instagram.com/rukonpro)
