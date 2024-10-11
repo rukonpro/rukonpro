@@ -12,7 +12,9 @@
 - 👨‍💻 All of my projects are available at [Portfollio](https://rukonpro.vercel.app)
 
 - 📝 I regularly write articles on [https://medium.com/@rukonpro](https://medium.com/@rukonpro)
-[Facebook](https://facebook.com/rukonpro)
+
+
+-[Facebook](https://facebook.com/rukonpro)
 - 💬 Ask me about **React,Next js, vuw.**
 
 - 📫 How to reach me **rukon.js@gmail.com**
