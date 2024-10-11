@@ -1,30 +1,93 @@
 <img src="https://i.ibb.co/TgctHGK/Jacksonville-Banner-mern-stack-training.jpg" alt="" />
-<h1 align="center">Hi 👋, I'm Rukon</h1>
-<h3 align="center">A professional MERN stact developer from Bangladesh</h3>
+# MERN Stack Developer
 
-- 🔭 I’m currently working on [Musafir](https://www.musafira2z.com/)
+## About Me
 
-- 🌱 I’m currently learning **Kotlin,Jetpack compose,Python, Django, PHP , Laravel**
+I am a passionate MERN Stack Developer with extensive experience in building dynamic and responsive web applications. My expertise lies in utilizing MongoDB, React.js, and Node.js to create robust, high-performance applications that provide exceptional user experiences. I am constantly exploring new technologies and best practices to enhance my skills and contribute effectively to projects.
 
-- 👯 I’m looking to collaborate on [Eskul](https://eskul-avengers.web.app/)
-- 👯 I’m looking to collaborate on [Online CLock Shop](https://premier-pottery-retailer.web.app/)
+## Skills
 
-- 👨‍💻 All of my projects are available at [Portfollio](https://rukonpro.vercel.app)
+- **Frontend Development:**
+  - React.js
+  - Next.js
+  - HTML5, CSS3, JavaScript (ES6+)
+  - Tailwind CSS, Bootstrap
+  - Responsive Design
+  - Redux, Context API
+  - React Hook Form and Formik
+  - YUP
+  - GraphQL Client (Apollo Client)
+  - React Query
+  - SWR
+  - Jose
 
-- 📝 I regularly write articles on
--[medium](https://medium.com/@rukonpro)
--[Linkdin](https://www.linkedin.com/in/rukonpro)
--[Facebook](https://facebook.com/rukonpro)
+- **Backend Development:**
+  - Node.js
+  - Mongoose
+  - RESTful APIs
+  - NextAuth
+  - JWT and OAuth
+  - Bcrypt
 
-- 💬 Ask me about **React,Next js, vuw.**
+- **Database Management:**
+  - MongoDB
+  - Prisma
+  - Firebase
 
-- 📫 How to reach me **rukon.js@gmail.com**
+- **Development Tools:**
+  - Git, GitHub
+  - Postman
+  - Visual Studio Code
+  NPM
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S8dFRWC7f3QH6ZVnGp6miYLwPz8s4coh/view](https://drive.google.com/file/d/1S8dFRWC7f3QH6ZVnGp6miYLwPz8s4coh/view)
+- **Deployment:**
+  - Heroku
+  - Vercel
+  - Netlify
+  - AWS
 
-<h3 align="left">Connect with me: **01765459224** </h3>
-<p align="left">
-</p>
+## Current Work
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Brand
+- **Description:** A versatile platform designed to showcase and sell a wide range of products. Focused on delivering a seamless user experience and effective product management.
+- **Role:** Currently working as a MERN Stack Developer, responsible for:
+  - Designing and implementing the frontend using React and Next.js.
+  - Managing state with Redux and Context API.
+  - Developing RESTful APIs with Node.js.
+  - Implementing authentication and authorization using NextAuth and JWT.
+  - Integrating Prisma for database management with MongoDB.
+  - Ensuring responsive design and optimal user experience across devices.
+- **Technologies:** React, Next.js, Prisma, MongoDB
+- **Link:** [Brand Project](https://brand-rukon.vercel.app)
+
+## Projects
+
+### Musafir
+- **Description:** An online wholesaler site providing a fully functional e-commerce experience with dynamic user interfaces and responsive design.
+- **Technologies:** React, Tailwind CSS, GraphQL, Apollo Client
+- **Link:** [Musafir Project](https://www.musafira2z.com)
+
+### Eskul
+- **Description:** A full-stack school management application that includes features such as dynamic dashboards, online tutoring, transportation options, and book purchases.
+- **Technologies:** React, Node.js, Express, MongoDB, Firebase
+- **Link:** [Eskul Project](https://yourprojectlink.com)
+
+## Education
+
+- **Bachelor of Social Science (B.S.S.) in [Your Major]**
+  - Sunamganj Government College
+  - [Expected Graduation Year]
+
+## Contact
+
+- **Email:** your.email@example.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rukonpro)
+- **Facebook:** [Facebook Profile](https://www.facebook.com/rukonpro)
+- **Instagram:** [Instagram Profile](https://www.instagram.com/rukonpro)
+- **Medium:** [Medium Profile](https://medium.com/@rukonpro)
+- **WhatsApp:** [+8801765459224](https://wa.me/+8801765459224)
+- **Portfolio:** [Your Portfolio](https://rukonpro.vercel.app)
+
+## Get in Touch
+
+I am always open to discussing new projects, collaborating, or simply connecting. Feel free to reach out!
