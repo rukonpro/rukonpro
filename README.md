@@ -12,7 +12,6 @@
 - 👨‍💻 All of my projects are available at [Portfollio](https://rukonpro.vercel.app)
 
 - 📝 I regularly write articles on
-
 -[medium](https://medium.com/@rukonpro)
 -[Linkdin](https://www.linkedin.com/in/rukonpro)
 -[Facebook](https://facebook.com/rukonpro)
