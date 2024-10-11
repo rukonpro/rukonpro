@@ -9,10 +9,10 @@
 - 👯 I’m looking to collaborate on [Eskul](https://eskul-avengers.web.app/)
 - 👯 I’m looking to collaborate on [Online CLock Shop](https://premier-pottery-retailer.web.app/)
 
-- 👨‍💻 All of my projects are available at [Portfollio](https://rukonpro.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfollio](https://rukonpro.vercel.app)
 
 - 📝 I regularly write articles on [https://medium.com/@rukonpro](https://medium.com/@rukonpro)
-
+[Facebook](https://facebook.com/rukonpro)
 - 💬 Ask me about **React,Next js, vuw.**
 
 - 📫 How to reach me **rukon.js@gmail.com**
