@@ -56,7 +56,7 @@ I am a passionate MERN Stack Developer with extensive experience building dynami
   - Implementing authentication and authorization using NextAuth and JWT.
   - Integrating Prisma for database management with MongoDB.
   - Ensuring responsive design and optimal user experience across devices.
-- **Technologies:** React, Next.js, Prisma, MongoDB
+- **Technologies:** React, Next.js, Prisma, MongoDB,Tailwind CSS
 - **Link:** [Brand Project](https://brand-rukon.vercel.app)
 
 ## Projects
