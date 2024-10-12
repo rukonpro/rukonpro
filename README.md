@@ -1,10 +1,10 @@
 # MERN Stack Developer
 
-![Developer](https://rukonpro.vercel.app/static/media/profile.3eb115d1.jpg)  <!-- Replace with your image URL if needed -->
+![Developer]([https://rukonpro.vercel.app/static/media/profile.3eb115d1.jpg](https://rukonpro.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frukon_cover_photo_2.169d9c02.jpg&w=1920&q=75))  <!-- Replace with your image URL if needed -->
 
 ## About Me
 
-I am a passionate MERN Stack Developer with extensive experience in building dynamic and responsive web applications. My expertise lies in utilizing MongoDB, React.js, and Node.js to create robust, high-performance applications that provide exceptional user experiences. I am constantly exploring new technologies and best practices to enhance my skills and contribute effectively to projects.
+I am a passionate MERN Stack Developer with extensive experience building dynamic and responsive web applications. My expertise lies in utilizing MongoDB, React.js, and Node.js to create robust, high-performance applications that provide exceptional user experiences. I constantly explore new technologies and best practices to enhance my skills and contribute effectively to projects.
 
 ## Skills
 
@@ -50,9 +50,9 @@ I am a passionate MERN Stack Developer with extensive experience in building dyn
 ## Current Work
 
 ### Brand
-- **Description:** A versatile platform designed to showcase and sell a wide range of products. Focused on delivering a seamless user experience and effective product management.
+- **Description:** A versatile platform designed to showcase and sell a wide range of products.Focused on delivering a seamless user experience and effective product management.
 - **Role:** Currently working as a MERN Stack Developer, responsible for:
-  - Designing and implementing the frontend using React and Next.js.
+  - Designing and implementing the Front-End using React and Next.js.
   - Managing state with Redux and Context API.
   - Developing RESTful APIs with Node.js.
   - Implementing authentication and authorization using NextAuth and JWT.
