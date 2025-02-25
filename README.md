@@ -38,15 +38,12 @@ Here’s a quick overview of my technical skills:
 
 ## Projects I’ve Built
 
-### 🛒 **Musafir**
-- **Description:** An online wholesaler site offering a fully functional e-commerce experience with dynamic user interfaces and responsive design.  
-- **Technologies Used:** React, Tailwind CSS, GraphQL, Apollo Client  
-- **Live Demo:** [Musafir Project](https://www.musafira2z.com)  
+Here’s a table showcasing some of the projects I’ve worked on:
 
-### 🏫 **Eskul**
-- **Description:** A full-stack school management application featuring dynamic dashboards, online tutoring, transportation options, and book purchases.  
-- **Technologies Used:** React, Node.js, Express, MongoDB, Firebase  
-- **Live Demo:** [Eskul Project](https://eskul-avengers.web.app/)  
+| **Project** | **Description**                                                                 | **Technologies Used**                     | **Live Demo**                              |
+|-------------|---------------------------------------------------------------------------------|-------------------------------------------|--------------------------------------------|
+| **Musafir** | An online wholesaler site offering a fully functional e-commerce experience.    | React, Tailwind CSS, GraphQL, Apollo Client | [Musafir Project](https://www.musafira2z.com) |
+| **Eskul**   | A full-stack school management app with dynamic dashboards and online tutoring. | React, Node.js, Express, MongoDB, Firebase | [Eskul Project](https://eskul-avengers.web.app/) |
 
 ---
 
@@ -62,7 +59,7 @@ Here’s a quick overview of my technical skills:
 
 I’m always excited to collaborate on new projects, share ideas, or just have a chat. Feel free to reach out—I’d love to hear from you!  
 
-- **Email:** rukon.pro@gmail.com  <!-- Replace with your actual email -->  
+- **Email:** your.email@example.com  <!-- Replace with your actual email -->  
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rukonpro)  
 - **Facebook:** [Facebook Profile](https://www.facebook.com/rukonpro)  
 - **Instagram:** [Instagram Profile](https://www.instagram.com/rukonpro)  
