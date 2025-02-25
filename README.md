@@ -6,49 +6,41 @@ I am a passionate MERN Stack Developer with extensive experience building dynami
 
 ## Skills
 
-- **Frontend Development:**
-  - React.js
-  - Next.js
-  - HTML5, CSS3, JavaScript (ES6+)
-  - Tailwind CSS, Bootstrap
-  - Responsive Design
-  - Redux, Context API
-  - React Hook Form and Formik
-  - YUP
-  - GraphQL Client (Apollo Client)
-  - React Query
-  - SWR
-  - Jose
+## Frontend Development
+- **Frameworks & Libraries:** React.js, Next.js
+- **Core Technologies:** HTML5, CSS3, JavaScript (ES6+)
+- **Styling:** Tailwind CSS, Bootstrap
+- **State Management:** Redux, Context API
+- **Form Handling:** React Hook Form, Formik, YUP
+- **API Integration:** GraphQL Client (Apollo Client), React Query, SWR
+- **Authentication:** Jose
 
-- **Backend Development:**
-  - Node.js
-  - Mongoose
-  - RESTful APIs
-  - NextAuth
-  - JWT and OAuth
-  - Bcrypt
+## Backend Development
+- **Runtime Environment:** Node.js
+- **ORM/ODM:** Mongoose
+- **API Development:** RESTful APIs
+- **Authentication:** NextAuth, JWT, OAuth
+- **Security:** Bcrypt
 
-- **Database Management:**
-  - MongoDB
-  - Prisma
-  - Firebase
+## Database Management
+- **NoSQL:** MongoDB
+- **ORM:** Prisma
+- **Realtime Database:** Firebase
 
-- **Development Tools:**
-  - Git, GitHub
-  - Postman
-  - Visual Studio Code
-  NPM
+## Development Tools
+- **Version Control:** Git, GitHub
+- **API Testing:** Postman
+- **Code Editor:** Visual Studio Code
+- **Package Manager:** NPM
 
-- **Deployment:**
-  - Heroku
-  - Vercel
-  - Netlify
-  - AWS
+## Deployment
+- **Platforms:** Heroku, Vercel, Netlify
+- **Cloud Services:** AWS
 
 ## Current Work
 
 ### Brand
-- **Description:** A versatile platform designed to showcase and sell a wide range of products.Focused on delivering a seamless user experience and effective product management.
+- **Description:** A versatile platform designed to showcase and sell a wide range of products and focused on delivering a seamless user experience and effective product management.
 - **Role:** Currently working as a MERN Stack Developer, responsible for:
   - Designing and implementing the Front-End using React and Next.js.
   - Managing state with Redux and Context API.
@@ -56,7 +48,7 @@ I am a passionate MERN Stack Developer with extensive experience building dynami
   - Implementing authentication and authorization using NextAuth and JWT.
   - Integrating Prisma for database management with MongoDB.
   - Ensuring responsive design and optimal user experience across devices.
-- **Technologies:** React, Next.js, Prisma, MongoDB,Tailwind CSS
+- **Technologies:** React, Next.js, Prisma, MongoDB, Tailwind CSS
 - **Link:** [Brand Project](https://brand-rukon.vercel.app)
 
 ## Projects
