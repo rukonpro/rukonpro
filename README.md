@@ -59,7 +59,7 @@ Here’s a table showcasing some of the projects I’ve worked on:
 
 I’m always excited to collaborate on new projects, share ideas, or just have a chat. Feel free to reach out—I’d love to hear from you!  
 
-- **Email:** your.email@example.com  <!-- Replace with your actual email -->  
+- **Email:** rukonpro.email@gmail.com
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rukonpro)  
 - **Facebook:** [Facebook Profile](https://www.facebook.com/rukonpro)  
 - **Instagram:** [Instagram Profile](https://www.instagram.com/rukonpro)  
